@@ -5,9 +5,11 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return x 
 }
-function johnLennonFacts(array) {
-  var i = 0 
-  while (i< array.length) 
- }
-return array;
+ function johnLennonFacts(array) {
+  var i = 0
+  while (i < array.length) {
+    array[i] += '!!!';
+    i++;
+  }
+  return array;
 }
