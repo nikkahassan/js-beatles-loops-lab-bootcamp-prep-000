@@ -13,11 +13,13 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return array;
 }
-function iLoveTheBeatles(n) {
+
+ function iLoveTheBeatles(number) {
   var arr = [];
+  var i = 0;
   do {
-    arrr.push('I love the Beatles!');
+    arr.push('I love the Beatles!');
     i++;
-  } while (i < n && n < 15);
+  } while (i <= number && number < 15);
   return arr;
 }
