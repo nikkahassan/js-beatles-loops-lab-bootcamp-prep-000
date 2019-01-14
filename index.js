@@ -15,5 +15,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 function iLoveTheBeatles(n) {
   var arr = [];
-  
+  do {
+    
+  }
 }
